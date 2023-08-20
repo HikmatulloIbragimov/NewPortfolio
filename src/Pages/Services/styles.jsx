@@ -16,7 +16,7 @@ export const Container = styled.div`
         align-items: center;
         .cardBar{
             width: 300px;
-            background: lightgray;
+            background: #03e9f4;
             border-radius: 30px;
             overflow: hidden;
             position: relative;
@@ -48,7 +48,7 @@ export const Container = styled.div`
                     height: 100%;
                     opacity:1 ;
                     visibility: visible;
-                    
+                    top: 0;
                 }
                 .img{
                     transform: scale(1.1);
